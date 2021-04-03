@@ -1,9 +1,8 @@
 # git-class-three
 
 git class
-
  ONE 
-
+ java
  TWO
 
 appa 
