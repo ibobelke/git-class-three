@@ -6,14 +6,20 @@ git class
 
  TWO
 
-appa 
-5.5
+appa
+
 one
 
 Six
 
 Five
 Four
+Car
+some changes
+dog
+cat
+car
+Fou
 Car
 some changes
 dog
